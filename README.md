@@ -32,7 +32,8 @@ This repository contains notes, assignments, and code implementations for a comp
 * **Lecture 19:** Linear Discriminant Analysis (Supervised)
 * **Lecture 20:** Clustering (K-Means, Agglomerative, PCA)
 
-## Technologies
-
-* **Python**
-numpy, pandas, matplotlib, seaborn, scikit-learn, scipy, autograd, statsmodels, jupyterlab
+**Libraries:**
+* **Data Manipulation:** NumPy, Pandas
+* **Visualization:** Matplotlib, Seaborn
+* **Machine Learning:** Scikit-Learn
+* **Statistics & Math:** SciPy, Statsmodels, Autograd

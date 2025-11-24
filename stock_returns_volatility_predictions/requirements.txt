@@ -1,0 +1,12 @@
+# run pip install -r requirements.txt to install the dependencies of this project
+yfinance
+ta
+yfinance
+ta
+pandas
+numpy
+matplotlib
+xgboost
+shap
+seaborn
+scikit-learn

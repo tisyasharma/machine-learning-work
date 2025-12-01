@@ -1,6 +1,6 @@
 # Machine Learning & Mathematical Foundations
 
-This repository contains notes, assignments, and code implementations for a comprehensive course on Machine Learning. The coursework covers the mathematical foundations (Calculus, Linear Algebra, Probability) and progresses through supervised and unsupervised learning algorithms.
+This repository contains notes, assignments, and code implementations for a comprehensive course on Machine Learning (DS4400). The coursework covers the mathematical foundations (Calculus, Linear Algebra, Probability) and progresses through supervised and unsupervised learning algorithms.
 
 ## Topics Covered
 
